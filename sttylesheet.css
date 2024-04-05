@@ -7,7 +7,7 @@
 .contenner{
     width: 100vw;
     height: 100vh;
-    background:linear-gradient( rgb(150, 252, 255),rgb(109, 255, 148),rgb(121, 153, 222),rgb(185, 255, 87));
+    background:radial-gradient(circle, rgb(244, 110, 0),rgb(255, 128, 23),rgb(255, 192, 20),rgb(255, 219, 87),rgb(248, 255, 42),rgb(28, 191, 255));
     display: flex;
     align-items: center;
     justify-content: center;
